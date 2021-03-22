@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 22.03.2021  
 **Name:** Bora 
 **Surname:** Tutumluer 
 **Email:** boratutumluer11@gmail.com  
